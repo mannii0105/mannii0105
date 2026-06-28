@@ -45,8 +45,8 @@
 *(Note: Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to make these cards work!)*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mannii0105&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannii0105&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
