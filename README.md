@@ -42,7 +42,6 @@
 
 ### 📊 GitHub Stats
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to make these cards work!)*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mannii0105&show_icons=true&theme=dracula" alt="GitHub Stats" />
